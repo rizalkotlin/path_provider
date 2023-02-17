@@ -81,9 +81,9 @@
     },
     {
       "name": "ffi",
-      "rootUri": "file:///Users/apple/.pub-cache/hosted/pub.dev/ffi-1.2.1",
+      "rootUri": "file:///Users/apple/.pub-cache/hosted/pub.dev/ffi-2.0.1",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "2.17"
     },
     {
       "name": "file",
@@ -237,7 +237,7 @@
     },
     {
       "name": "path_provider_windows",
-      "rootUri": "file:///Users/apple/.pub-cache/git/path_provider_windows-90f6769fe3ae1eeca5b2c689a03987793efd0128/",
+      "rootUri": "file:///Users/apple/.pub-cache/git/path_provider_windows-46f499050bca8dbffe9a650084e0975b99dc4319/",
       "packageUri": "lib/",
       "languageVersion": "2.19"
     },
@@ -417,7 +417,7 @@
     },
     {
       "name": "win32",
-      "rootUri": "file:///Users/apple/.pub-cache/hosted/pub.dev/win32-2.6.1",
+      "rootUri": "file:///Users/apple/.pub-cache/hosted/pub.dev/win32-2.7.0",
       "packageUri": "lib/",
       "languageVersion": "2.17"
     },
@@ -440,7 +440,7 @@
       "languageVersion": "2.19"
     }
   ],
-  "generated": "2023-02-17T03:31:22.815760Z",
+  "generated": "2023-02-17T05:17:56.682163Z",
   "generator": "pub",
   "generatorVersion": "2.19.2"
 }
