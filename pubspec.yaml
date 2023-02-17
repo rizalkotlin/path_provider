@@ -45,7 +45,7 @@ dependencies:
   path_provider_windows:
     git:
       url: https://github.com/rizalkotlin/path_provider_windows.git
-      ref: 46f499050bca8dbffe9a650084e0975b99dc4319
+      ref: 15857a89852c78d164768686de1b14ec368d0be6
 
 dev_dependencies:
   flutter_driver:
